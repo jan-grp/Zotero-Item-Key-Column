@@ -1,6 +1,6 @@
 # Zotero Item Key Column
 
-This Zotero 7 plugin adds:
+This Zotero 8 plugin adds:
 - An **“Item Key”** column to the items list and advanced search results  
 - An **“Item Key”** row in the **Info panel** (read-only) for quick access
 
@@ -17,9 +17,9 @@ The Item Key is the internal identifier used by Zotero (e.g., `ABCD1234`) and is
 
 1. **Download the latest release**  
    Go to the [Releases page](../../releases) and download the latest `.xpi` file  
-   (e.g., `item-key-column-1.0.8.xpi`).
+   (e.g., `item-key-column-2.0.0.xpi`).
 
-2. **Install in Zotero 7**  
+2. **Install in Zotero 8**  
    - Open Zotero  
    - Go to **Tools → Plugins**  
    - Drag and drop the downloaded `.xpi` file into the Plugins window  
